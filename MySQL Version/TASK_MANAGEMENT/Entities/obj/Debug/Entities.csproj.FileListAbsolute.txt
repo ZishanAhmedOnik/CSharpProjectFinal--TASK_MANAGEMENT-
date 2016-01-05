@@ -1,0 +1,5 @@
+c:\users\zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\Entities\bin\Debug\Entities.dll
+c:\users\zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\Entities\bin\Debug\Entities.pdb
+c:\users\zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\Entities\obj\Debug\Entities.dll
+c:\users\zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\Entities\obj\Debug\Entities.pdb
+C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

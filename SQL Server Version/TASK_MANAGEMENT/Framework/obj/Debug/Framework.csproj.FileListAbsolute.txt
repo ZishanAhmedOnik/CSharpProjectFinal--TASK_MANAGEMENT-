@@ -1,0 +1,9 @@
+C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\Framework\bin\Debug\Framework.dll
+C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\Framework\bin\Debug\Framework.pdb
+C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\Framework\obj\Debug\Framework.dll
+C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\Framework\obj\Debug\Framework.pdb
+C:\Users\OnikPC\Desktop\TASK_MANAGEMENT\Framework\bin\Debug\Framework.dll
+C:\Users\OnikPC\Desktop\TASK_MANAGEMENT\Framework\bin\Debug\Framework.pdb
+C:\Users\OnikPC\Desktop\TASK_MANAGEMENT\Framework\obj\Debug\Framework.dll
+C:\Users\OnikPC\Desktop\TASK_MANAGEMENT\Framework\obj\Debug\Framework.pdb
+C:\Users\OnikPC\Desktop\TASK_MANAGEMENT\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache

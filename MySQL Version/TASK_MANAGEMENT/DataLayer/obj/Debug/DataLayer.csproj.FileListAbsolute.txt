@@ -1,0 +1,9 @@
+c:\users\zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\DataLayer\bin\Debug\DataLayer.dll
+c:\users\zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+c:\users\zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\DataLayer\obj\Debug\DataLayer.dll
+c:\users\zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\DataLayer\bin\Debug\Entities.dll
+C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\DataLayer\bin\Debug\Framework.dll
+C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\DataLayer\bin\Debug\Entities.pdb
+C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\DataLayer\bin\Debug\Framework.pdb
