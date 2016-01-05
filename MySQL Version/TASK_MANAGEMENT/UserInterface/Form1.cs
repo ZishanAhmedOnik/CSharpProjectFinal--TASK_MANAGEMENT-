@@ -138,10 +138,10 @@ namespace UserInterface
             {
                 var searchRes = from item in gridItemList
                                 where item.TASK_ID == querInt ||
-                                item.ASSIGNED_TO.Contains(queryItem) ||
-                                item.ASSIGNED_BY.Contains(queryItem) ||
-                                item.TASK_TITLE.Contains(queryItem) ||
-                                item.TASK_DETAILS.Contains(queryItem)
+                                Contains(item.ASSIGNED_TO, queryItem) ||
+                                Contains(item.ASSIGNED_BY, queryItem) ||
+                                Contains(item.TASK_TITLE, queryItem) ||
+                                Contains(item.TASK_DETAILS, queryItem)
                                 select item;
 
                 taskDataGridView.DataSource = searchRes.ToList();
@@ -178,6 +178,11 @@ namespace UserInterface
                                    select task;
 
             taskDataGridView.DataSource = dateSearchResult.ToList();
+        }
+
+        private bool Contains(string str1, string str2)
+        {
+            return str1.IndexOf(str2, StringComparison.CurrentCultureIgnoreCase) >= 0;
         }
     }
 }

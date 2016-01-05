@@ -17,3 +17,22 @@ C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\UserInterf
 C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.DeleteOrEditUserForm.resources
 C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.AddTaskForm.resources
 C:\Users\Zishan\documents\visual studio 2013\Projects\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.DeleteOrEditTaskForm.resources
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\bin\Debug\UserInterface.exe.config
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.exe
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.pdb
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\bin\Debug\UserInterface.exe
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\bin\Debug\UserInterface.pdb
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\bin\Debug\DataLayer.dll
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\bin\Debug\Entities.dll
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\bin\Debug\Framework.dll
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\bin\Debug\DataLayer.pdb
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\bin\Debug\Entities.pdb
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\bin\Debug\Framework.pdb
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.AddTaskForm.resources
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.AddUserForm.resources
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.DeleteOrEditUserForm.resources
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.DeleteOrEditTaskForm.resources
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.LoginForm.resources
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Personal Works\OOP2 Final Porject\MySQL Version\TASK_MANAGEMENT\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
